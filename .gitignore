@@ -1,0 +1,22 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated output (blogs are written as <slug>.md in the project root)
+images/
+*.md
+!README.md
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

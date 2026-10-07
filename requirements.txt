@@ -1,0 +1,19 @@
+# Agent graph + LLM
+langgraph==1.2.14
+langchain-core==1.6.7
+langchain-openai==1.6.7
+pydantic==2.13.5
+
+# Web research (Tavily)
+langchain-community==0.4.2
+tavily-python==0.8.5
+
+# Image generation (Gemini)
+google-genai==2.28.0
+
+# Frontend
+streamlit==1.65.0
+pandas==3.0.6
+
+# Config
+python-dotenv==1.2.4
